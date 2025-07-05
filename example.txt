@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 hello,its me your friend jubilee.
-=======
+
 testing the git in the devops
 making changes to see the history
->>>>>>> 8a55c2c2e3ea6ca9866c6b2f4a4dd26643bef942
+
